@@ -35,5 +35,9 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'tekospecial': {
+        'ingredients': {'mozzarella' : 1, 'parmesan' : 2, 'gorgonzola' : 2, 'ham' : 3},
+        'price': 14,
     }
 }
